@@ -27,4 +27,4 @@ export const ColorModeSwitcher: React.FC<ColorModeSwitcherProps> = (props) => {
       {...props}
     />
   )
-}
+} 
